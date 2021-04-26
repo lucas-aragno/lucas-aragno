@@ -1,4 +1,4 @@
 # Sup
 <p align="center">
-  <img src="https://media1.tenor.com/images/0ad7e4ac2dbe852fa8918a900833edd2/tenor.gif?itemid=5217864"></img>
+  <img src="https://pbs.twimg.com/media/Ez7OuF9WEAYo0pY?format=jpg&name=900x900"></img>
 </p>
