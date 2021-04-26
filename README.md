@@ -9,10 +9,10 @@
 
   - Worked on as a developer several games, mostly during global [game jam](https://globalgamejam.org/) events but none of them are too good.
 
-  - I'd rather talk about books and [comics](https://www.goodreads.com/user/year_in_books/2020/53265228) than software most of the time though.
+  - I'd rather talk about books and [comics](https://www.goodreads.com/user/year_in_books/2020/53265228) than software most of the time though (and i really dont wanna talk about bitcoin).
 
 
-  You can contact me at my email lucas.aragno157@gmail.com, my [twitter](https://twitter.com/aragno157) 
+  You can contact me at my email lucas.aragno157@gmail.com or my [twitter](https://twitter.com/aragno157) 
 </p>
 <p align="right">
   <img width="400" src="https://pbs.twimg.com/media/Ez7OuF9WEAYo0pY?format=jpg&name=900x900">
