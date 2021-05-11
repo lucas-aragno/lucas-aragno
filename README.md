@@ -15,6 +15,8 @@
 
   - I'd rather talk about books and [comics](https://www.goodreads.com/user/year_in_books/2020/53265228) than software most of the time though (and i really dont wanna talk about bitcoin).
   - Virtually every developer I know would rather be a musician.
+  
+  - Kaizen Philosophy.
 
  
   You can contact me at my email lucas.aragno157@gmail.com or my [twitter](https://twitter.com/aragno157) 
