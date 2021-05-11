@@ -1,17 +1,22 @@
 # Hello there
 <p alight="left">
   Hello there! I'm Lucas Aragno a software developer with approximated knowledge to many things.
-  here are some bullet points of my profile since this is sort of a resume i guess: 
+  here are some bullet points of my profile since this has become sort of a resume now i guess:
+  
+  - I'm currently based in [Argentina](https://www.goodreads.com/quotes/386113-he-dabbed-at-his-tuxedo-with-a-damp-rag-and)
   
   - Been working on Software (professionally) since 2010 on different types of programs and applications, from desktop Java apps, Blackberry apps (remember those?) to cutting edge     web technologies, IOT, Machine learning and all those buzzwords.
 
-  - I've also been a speaker at different software events (RubyConf BR, Erlang/Elixir Factory lite BA, Node Summit, JSConf Colombia and several meetups) Also I tried to create some   useful open source modules and templates that you can find here.
+  - I've been a speaker at different software events (RubyConf BR, Erlang/Elixir Factory lite BA, Node Summit, JSConf Colombia and several meetups).
 
-  - Worked on as a developer several games, mostly during global [game jam](https://globalgamejam.org/) events but none of them are too good.
+  - I tried to create some  useful open source modules and templates that you can find on this profile.
+
+  - Developed several games, mostly during global [game jam](https://globalgamejam.org/) events but none of them are too good.
 
   - I'd rather talk about books and [comics](https://www.goodreads.com/user/year_in_books/2020/53265228) than software most of the time though (and i really dont wanna talk about bitcoin).
+  - Virtually every developer I know would rather be a musician.
 
-
+ 
   You can contact me at my email lucas.aragno157@gmail.com or my [twitter](https://twitter.com/aragno157) 
 </p>
 <p align="right">
