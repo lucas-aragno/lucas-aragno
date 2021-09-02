@@ -9,7 +9,7 @@
 
   - I've been a speaker at different software events (RubyConf BR, Erlang/Elixir Factory lite BA, Node Summit, JSConf Colombia and several meetups).
 
-  - I tried to create some  useful open source modules and templates that you can find on this profile.
+  - I try to create some  useful open source modules and templates that you can find on this profile.
 
   - Developed several games, mostly during global [game jam](https://globalgamejam.org/) events but none of them are too good.
 
