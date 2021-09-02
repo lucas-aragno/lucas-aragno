@@ -13,7 +13,7 @@
 
   - Developed several games, mostly during global [game jam](https://globalgamejam.org/) events but none of them are too good.
 
-  - I'd rather talk about books and [comics](https://www.goodreads.com/user/year_in_books/2020/53265228) than software most of the time though (and i really dont wanna talk about bitcoin).
+  - I'd rather talk about books and [comics](https://www.goodreads.com/user/year_in_books/2020/53265228) than software most of the time though
   - Virtually every developer I know would rather be a musician.
   
   - Kaizen Philosophy.
